@@ -40,6 +40,7 @@ Computer-Vision-Powered-Search-Application/
 ├── requirements.txt  
 └── README.md  
 
+### Dataset Link: https://drive.google.com/drive/folders/1j4L81S0ApFYqpCfwJUK0t2m8AjmxDnHQ?usp=sharing
 
 ## ▶️ Run the Application
 ###Install dependencies:
