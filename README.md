@@ -2,7 +2,7 @@
 A powerful Streamlit-based application that uses YOLOv11 object detection to scan image datasets and perform AI-powered search across thousands of images.  
 
 This project allows you to:
-    1) Detect objects using YOLOv11
+    1) Detect objects using YOLOv11  
     2) Save metadata with class counts & bounding boxes  
     3) Search images using AND/OR logic  
     4) Apply optional count thresholds  
