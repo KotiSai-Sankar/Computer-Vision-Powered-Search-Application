@@ -25,20 +25,20 @@ This project allows you to:
 
 ## 📁 Project Structure
 
-Computer-Vision-Powered-Search-Application/
-│
-├── app.py
-├── src/
-│   ├── inference.py
-│   ├── utils.py
-│   ├── config.py
-│
-├── configs/
-│   └── default.yaml
-│
-├── processed/
-├── requirements.txt
-└── README.md
+Computer-Vision-Powered-Search-Application/  
+│  
+├── app.py  
+├── src/  
+│   ├── inference.py  
+│   ├── utils.py  
+│   ├── config.py  
+│  
+├── configs/  
+│   └── default.yaml  
+│  
+├── processed/  
+├── requirements.txt  
+└── README.md  
 
 
 ## ▶️ Run the Application
